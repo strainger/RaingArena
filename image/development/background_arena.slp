@@ -1,0 +1,99 @@
+{
+    "project": {
+        "currentLayerIndex": 0,
+        "firstPane": {
+            "offsetX": 170,
+            "offsetY": 187,
+            "sceneCentered": false,
+            "size": 1,
+            "zoomLevel": 5
+        },
+        "guides": [
+        ],
+        "lastFillToolUsed": "FillTool",
+        "layerListViewContentY": 0,
+        "layers": [
+            {
+                "imageData": "iVBORw0KGgoAAAANSUhEUgAAAGQAAAAoCAYAAAAIeF9DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABh0lEQVRoge2awRWDIAyGsa/TdIQO4MEROokjOJEHl2tPvEcrIIQY/tR812oJfAQhOjyer7cDZVvnw2vGaRGIRI5b7wByHA32v8lwzrl77wCoaJMRy/ZYHwbkJcsTdoZDRMlSyNVWSZthO1EhpTf/Xqth1pbKCJGYBL6NnZCSG3t1igol3hhcfcgtX9UPdWrnuAalZ7sSYqszhAuJjDmrL9yZEv5fUYacMXi9MoaDbZ1Z4h+nZTe2Vbss7kGUeq6gZ0pI1Tkkt8PyvyPO/NTAIcaq4hxyJqkdT+k2lZvLC8lRcx7jwoSAAV1cvCImBAwTAoYJAYPtfUhqR6KhAowEyy6r5YBlwr5pFsJV05GOAXUiNAnhLD20DBDa+44WSEJQioxn1qJ6yRF7QZUCYVbG4Cqx11K1y6J8HBCrCGtiW2fRmMnb3togtYkIkZSivrgouaxISFH7oZzn6KWZNtRnSClUUdJL7WWEaMGKi2CYEDBMCBgmBAwTAoYJAcOEgGFCwDAhYJgQMD79pq8dD2RpBgAAAABJRU5ErkJggg==",
+                "name": "sky",
+                "opacity": 1,
+                "visible": true
+            },
+            {
+                "imageData": "iVBORw0KGgoAAAANSUhEUgAAAGQAAAAoCAYAAAAIeF9DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACiUlEQVRoge2aPXLCMBCF5YybMGkwDQcACi7AQMUdUsFwgRTOGXIH3SHnoMqML5ACcgAaoGFI6RRERBZaaW1L/iH7NWEsW9p9T7sWSRgjCIIgCIIgCIIgUBzOo7TuGHwQ1h0AxOE8SqPOJlCvc85TxhiLOnGAuZ8wwDlPhaC2+1yNjWdL1JrYNXxT6Y4az5bpy2LK4ji7u+sUQCDHxDlP1RgxuKhS54aMZ8v08+MdbDU68ohhGofGMAJjN0XetfOSeYdgHDbdc01qMb1JLo7joGzQrpLWIea1mYppmaYNZtM4Y0jU2RhF45ynUccclC/BqgBjOKYCVX3kcZvG4CkLEt1mGDRfnbiozrzric9QZUHVFOpEvNcKqBOoJapah7rBtlVAm7mpEHWwCtHFGkmS5B7HPqveA7Wt1WpVKl9XrVDME+oulp3ctrD4PJlMGGMX4cRnGd01zJhufiG8apg6T5XvGh3OfnWiJgztYIgkSdgg+nYVToZBdPm5366v13rDOWgqlIOtpWOwHTBQhshljW1pULKyKAIhWFX0hnPGmHkTmAxT21zRTagjhCaXgVoKhE70piCbYQLK4evwCGphqjisWYVf4k0WHQJTGS7XsSGbJMw0tqw2im5jv117b5Em3WSzdBUVvL0+3/V3i9NxB449dfsVRmJGGOXtD1Q6IeoQwLRmU2Jk7K+qShli2n1tQBX/dNxZc/JtWCFD5KDlAO/NIB0iR1/GlG5ZqglN6ss+eOr2r5XkI9dChty76DZE/j4ODI39r5M24OPAQIZ4girkl7a/01pjSJ4THHTya4M5TgzBiJXnSFn0eZfP1YUTQ2xJY75wYeb5D1TSskhoPA91B0BkIUMaxg+7m8DeYLJpkwAAAABJRU5ErkJggg==",
+                "name": "background",
+                "opacity": 1,
+                "visible": true
+            },
+            {
+                "imageData": "iVBORw0KGgoAAAANSUhEUgAAAGQAAAAoCAYAAAAIeF9DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAyUlEQVRoge3VsQ2DMBCF4QuiSpkhWMHLeAVPczUlw7BChqCkdaqTCHIiRbE4kP+vtIXP3ANbBAAAAAAAAAAAAAAAAAAAAAAAXMSyDnlZh+y9j5v3Bs5gH8Tj/nTrS+dVGGXVAlFV99/96lQ1VwkkxphtwRrrtch616lq/qeRMcYcQqi3sxM4+sPa1uu3gymlZi/5aUwudffh958mWwjH3nca/WqbeZ4lhPAeSOmBFoI5UikIERE79jsbtInSAr+cqVzsZd/6uL2DX7y5V3m27JXgAAAAAElFTkSuQmCC",
+                "name": "foreground",
+                "opacity": 1,
+                "visible": true
+            }
+        ],
+        "secondPane": {
+            "offsetX": -250,
+            "offsetY": 187,
+            "sceneCentered": true,
+            "size": 0,
+            "zoomLevel": 1
+        },
+        "swatch": {
+            "colours": [
+                {
+                    "colour": "#ff000000",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff2a3a5a",
+                    "name": ""
+                },
+                {
+                    "colour": "#ffe4f0d2",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff694710",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff27722d",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff52380d",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff07540d",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff745d3b",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff403c37",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff806e53",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff939393",
+                    "name": ""
+                },
+                {
+                    "colour": "#ffeff726",
+                    "name": ""
+                },
+                {
+                    "colour": "#ff5c5c5c",
+                    "name": ""
+                }
+            ]
+        }
+    }
+}
